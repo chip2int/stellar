@@ -1,6 +1,6 @@
 # Stellar Code Challenge
 
-The main goal is to build endpoints that would create endpoints for the following:
+The main goal is to build endpoints for the following:
 - Creating a new snippet. POST  **http://localhost:3000/api/**
 - Retrieve an existing snippet. GET **http://localhost:3000/api/snippets/<name>**
 - Like a snippet. POST  **http://localhost:3000/api/snippets/<name>**
